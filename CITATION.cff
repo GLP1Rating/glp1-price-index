@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to the GLP-1 Price Index page."
+title: "GLP1Rating GLP-1 Price Index"
+type: dataset
+authors:
+  - name: "GLP1Rating"
+    website: "https://glp1rating.com"
+    email: "support@glp1rating.com"
+abstract: "Monthly advertised cash prices from US telehealth providers for compounded semaglutide and tirzepatide, plus manufacturers' self-pay prices for brand-name GLP-1 drugs."
+url: "https://glp1rating.com/glp-1-price-index/"
+license: CC-BY-4.0
+version: "2026-10"
+date-released: "2026-10-29"
+keywords:
+  - GLP-1
+  - semaglutide
+  - tirzepatide
+  - drug prices
+  - telehealth
+  - compounded medications
