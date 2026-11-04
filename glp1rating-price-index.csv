@@ -61,3 +61,63 @@ edition,drug,provider,lowest_advertised_monthly_usd,month_to_month_usd,first_mon
 2026-10,"Foundayo (manufacturer self-pay)","Eli Lilly · orforglipron",149,299,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-09-30
 2026-10,"Ozempic (manufacturer self-pay)","Novo Nordisk · semaglutide",199,499,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-09-30
 2026-10,"Mounjaro (manufacturer self-pay)","Eli Lilly · tirzepatide",499,499,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-09-30
+2026-11,"compounded semaglutide",AgelessRx,99,99,,"Microdose plan, billed monthly",2026-11-04
+2026-11,"compounded semaglutide",Belle,93,199,,"12-month plan; same price at every dose",2026-11-04
+2026-11,"compounded semaglutide",bmiMD,119,159,,"12-month plan, $1,428 paid upfront",2026-11-04
+2026-11,"compounded semaglutide","Bodybuilding Health+",141.5,179,,"12-month bundle",2026-11-04
+2026-11,"compounded semaglutide","CoreAge Rx",79,,,"Best-selling plan, same price at every dose; some pages show from $99/mo",2026-11-04
+2026-11,"compounded semaglutide",DirectMeds,249,249,,"Drops, month to month",2026-11-04
+2026-11,"compounded semaglutide",Embody,49,,,"Sale price, flat monthly rate; plan terms not stated",2026-11-04
+2026-11,"compounded semaglutide",Enhance.MD,212,212,112,"Billed every 28 days",2026-11-04
+2026-11,"compounded semaglutide",Gala,179,,,"Plan terms not stated; $199/mo on a 3-month plan",2026-11-04
+2026-11,"compounded semaglutide",HealthRX,97,,,"""Starting from"" price; plan length shown after you start",2026-11-04
+2026-11,"compounded semaglutide",Found,169,289,179,"12-month plan paid upfront, cash ($99/mo with insurance)",2026-11-04
+2026-11,"compounded semaglutide",MadeMed,143,179,,"12-month plan, $1,718 billed every 360 days, plus a $20 consultation fee",2026-11-04
+2026-11,"compounded semaglutide","MangoRx Slim",299,299,,"Monthly price shown on the product page",2026-11-04
+2026-11,"compounded semaglutide",MEDGm,169,299,179,"12-month plan, $2,028 billed upfront",2026-11-04
+2026-11,"compounded semaglutide","Mevo Health",199,,,"""As low as"" price; plans of 1, 3 or 6 months, each plan price shown after the intake",2026-11-04
+2026-11,"compounded semaglutide",Oak,119,,,"12-month plan",2026-11-04
+2026-11,"compounded semaglutide",PeterMD,149,,,"$447 for about 10 to 12 weeks",2026-11-04
+2026-11,"compounded semaglutide",PlexusDx,99,149,,"12-month plan, $1,188 billed upfront",2026-11-04
+2026-11,"compounded semaglutide",SHED,159,199,,"12-month plan, $1,908 total",2026-11-04
+2026-11,"compounded semaglutide",SnagRx,69,,,"Sale price, same at every dose (listed $299/mo)",2026-11-04
+2026-11,"compounded semaglutide","Sprout Health",99,149,,"12-month plan, $1,188 billed upfront",2026-11-04
+2026-11,"compounded semaglutide","Strut Health",129,,,"Injection, auto-refill price",2026-11-04
+2026-11,"compounded semaglutide",TrimRx,179,,,"""Starting at"" price; billing terms not stated",2026-11-04
+2026-11,"compounded semaglutide",Eden,99,99,,"Month to month, same price at every dose",2026-11-04
+2026-11,"compounded semaglutide",Wellmedr,41,,,"Sale price, shipped every 4 weeks",2026-11-04
+2026-11,"compounded semaglutide",Willow,299,299,,"Includes medication, visits and shipping",2026-11-04
+2026-11,"compounded semaglutide",YourEra,65,89,,"12-month plan, $780 billed yearly; same price at every dose",2026-11-04
+2026-11,"compounded tirzepatide",AgelessRx,159,,109,"Microdose plan, $318 billed every 2 months after the first month",2026-11-04
+2026-11,"compounded tirzepatide",Belle,179,249,,"12-month plan; same price at every dose",2026-11-04
+2026-11,"compounded tirzepatide",bmiMD,179,249,,"12-month plan, $2,148 paid upfront",2026-11-04
+2026-11,"compounded tirzepatide","Bodybuilding Health+",174.67,209,,"6-month bundle",2026-11-04
+2026-11,"compounded tirzepatide","CoreAge Rx",129,,,"Best-selling plan, same price at every dose",2026-11-04
+2026-11,"compounded tirzepatide",DirectMeds,399,399,,"Month to month",2026-11-04
+2026-11,"compounded tirzepatide",Embody,99,,,"Sale price, flat monthly rate; plan terms not stated",2026-11-04
+2026-11,"compounded tirzepatide",Enhance.MD,280,280,180,"Billed every 28 days",2026-11-04
+2026-11,"compounded tirzepatide",Gala,179,,,"Plan terms not stated; $199/mo on a 3-month plan",2026-11-04
+2026-11,"compounded tirzepatide",HealthRX,177,,,"""Starting from"" price; plan length shown after you start",2026-11-04
+2026-11,"compounded tirzepatide",Found,239,359,219,"12-month plan paid upfront, cash ($179/mo with insurance)",2026-11-04
+2026-11,"compounded tirzepatide",MadeMed,199,249,,"12-month plan, $2,390 billed every 360 days, plus a $20 consultation fee",2026-11-04
+2026-11,"compounded tirzepatide",MEDGm,269,399,279,"12-month plan, $3,228 billed upfront",2026-11-04
+2026-11,"compounded tirzepatide","Mevo Health",259,,,"""As low as"" price; plans of 1, 3 or 6 months, each plan price shown after the intake",2026-11-04
+2026-11,"compounded tirzepatide",Oak,185,,,"12-month plan",2026-11-04
+2026-11,"compounded tirzepatide",PeterMD,249,,149,"Billed quarterly",2026-11-04
+2026-11,"compounded tirzepatide",PlexusDx,129,189,,"12-month plan, $1,548 billed upfront",2026-11-04
+2026-11,"compounded tirzepatide",SHED,239,299,,"12-month plan, $2,868 total",2026-11-04
+2026-11,"compounded tirzepatide",SnagRx,119,,,"Sale price, same at every dose (listed $349/mo)",2026-11-04
+2026-11,"compounded tirzepatide","Sprout Health",149,199,,"12-month plan, $1,788 billed upfront",2026-11-04
+2026-11,"compounded tirzepatide","Strut Health",149,,,"Injection, auto-refill price",2026-11-04
+2026-11,"compounded tirzepatide","System Labs",179,179,99,"Listed as compounded GLP-1/GIP; all doses",2026-11-04
+2026-11,"compounded tirzepatide",TrimRx,279,,,"""Starting at"" price; billing terms not stated",2026-11-04
+2026-11,"compounded tirzepatide",Eden,129,129,,"Month to month, same price at every dose",2026-11-04
+2026-11,"compounded tirzepatide",Wellmedr,71,,,"Sale price, shipped every 4 weeks",2026-11-04
+2026-11,"compounded tirzepatide",Willow,399,399,,"Includes medication, visits and shipping",2026-11-04
+2026-11,"compounded tirzepatide",YourEra,99,129,,"12-month plan, $1,188 billed yearly; same price at every dose",2026-11-04
+2026-11,"Zepbound (manufacturer self-pay)","Eli Lilly · tirzepatide",299,449,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-11-04
+2026-11,"Wegovy (manufacturer self-pay)","Novo Nordisk · semaglutide",199,349,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-11-04
+2026-11,"Wegovy pill (manufacturer self-pay)","Novo Nordisk · semaglutide",149,299,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-11-04
+2026-11,"Foundayo (manufacturer self-pay)","Eli Lilly · orforglipron",149,299,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-09-30
+2026-11,"Ozempic (manufacturer self-pay)","Novo Nordisk · semaglutide",199,499,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-09-30
+2026-11,"Mounjaro (manufacturer self-pay)","Eli Lilly · tirzepatide",499,499,,"Range from lowest to highest dose; the month_to_month column holds the top of the range",2026-09-30

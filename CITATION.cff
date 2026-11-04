@@ -9,8 +9,8 @@ authors:
 abstract: "Monthly advertised cash prices from US telehealth providers for compounded semaglutide and tirzepatide, plus manufacturers' self-pay prices for brand-name GLP-1 drugs."
 url: "https://glp1rating.com/glp-1-price-index/"
 license: CC-BY-4.0
-version: "2026-10"
-date-released: "2026-10-29"
+version: "2026-11"
+date-released: "2026-11-04"
 keywords:
   - GLP-1
   - semaglutide
